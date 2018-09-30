@@ -1,0 +1,6 @@
+{'signal': 'ATL3', 'value_type': 'Datetime', 'value': '2020-08-15 06:26:17'}
+{'signal': 'ATL2', 'value_type': 'String', 'value': 'LOW'}
+{'signal': 'ATL2', 'value_type': 'String', 'value': 'LOW'}
+{'signal': 'ATL2', 'value_type': 'String', 'value': 'LOW'}
+{'signal': 'ATL2', 'value_type': 'String', 'value': 'LOW'}
+{'signal': 'ATL1', 'value_type': 'Integer', 'value': '5820.292'}

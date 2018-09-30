@@ -1,0 +1,17 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "test_getInvalidDataFrom",
+    "uid" : "9a5b164c6b340d1",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1538310338598,
+      "stop" : 1538310338611,
+      "duration" : 13
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}

@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Ibbu",
+    "children" : [ {
+      "name" : "2664-MainThread",
+      "children" : [ {
+        "name" : "test_getInvalidDataFrom",
+        "uid" : "9a5b164c6b340d1",
+        "parentUid" : "902fe99e7467af66ad31e2b3059d95d4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1538310338598,
+          "stop" : 1538310338611,
+          "duration" : 13
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "902fe99e7467af66ad31e2b3059d95d4"
+    } ],
+    "uid" : "e5f8ee6b7322c263d55ec578236b8993"
+  } ]
+}

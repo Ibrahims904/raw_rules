@@ -1,0 +1,11 @@
+[ {
+  "uid" : "9a5b164c6b340d1",
+  "name" : "test_getInvalidDataFrom",
+  "time" : {
+    "start" : 1538310338598,
+    "stop" : 1538310338611,
+    "duration" : 13
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
